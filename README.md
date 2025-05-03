@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!👋 I'm Dipayan Ghose 👨‍💻</h1>
+<h1 align="center">Hey There!👋 I'm Dipayan Ghose 👨‍💻</h1>
 
 <h3 align="center">💻 Passionate Web Developer from Bangladesh, driven by curiosity and creativity. <br> 🎓 Graduated in Computer Science and Engineering from <br>East West University, Dhaka.</h3>
 <br>
@@ -15,4 +15,4 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/dipayan-ghose-bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipayan-ghose-bd" height="30" width="40" /></a>
 </p>
 
-<h2  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipayan-ghose&show_icons=true&locale=en&layout=compact" alt="dipayan-ghose" /></h2>
+<h2  align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipayan-ghose&show_icons=true&locale=en&layout=compact" alt="dipayan-ghose" /></h2>
